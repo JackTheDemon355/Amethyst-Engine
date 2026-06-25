@@ -18,8 +18,8 @@ If you wish to modify or build the standalone executable locally:
 2. Compile the Binaries via PyInstaller:
 
 Run the execution wrapper command to compile the Python script into a single standalone window asset:
-```bash
-pyinstaller --noconsole --onefile --collect-all customtkinter --collect-all tkinterdnd2 amethyst_engine.py
+   ```bash
+   pyinstaller --noconsole --onefile --collect-all customtkinter --collect-all tkinterdnd2 amethyst_engine.py
 
 3. Generate the Setup Installer:
 Load the `installer.iss` configuration file inside Inno Setup and select Compile (Ctrl + F9) to generate the official installation wizard tool.
