@@ -15,9 +15,7 @@ If you wish to modify or build the standalone executable locally:
    ```bash
    pip install customtkinter tkinterdnd2 pyinstaller
 
-2. Compile the Binaries via PyInstaller:
-
-Run the execution wrapper command to compile the Python script into a single standalone window asset:
+1. Compile the Binaries via PyInstaller:
    ```bash
    pyinstaller --noconsole --onefile --collect-all customtkinter --collect-all tkinterdnd2 amethyst_engine.py
 
