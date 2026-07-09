@@ -25,6 +25,6 @@ Load the `installer.iss` configuration file inside Inno Setup and select Compile
 ## 📄 License & Subdomain Index
 Distributed under the MIT License. For additional documentation, index parameters, and support channels, visit our official staging index portal:
 
-**amethyst-engi.oneapp.dev**
+**amethyst-engine.oneapp.dev**
 
 `Engineered by JackTheDemon355 Dev Group`.
