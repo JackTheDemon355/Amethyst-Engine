@@ -2,6 +2,13 @@
 
 A modern, desktop-based utility framework designed to seamlessly handle local Minecraft world file structure transitions between `.zip` and `.mcworld` formats. Built by **JackTheDemon355 Dev Group** using Python and CustomTkinter.
 
+## 🔢 Current Version
+
+The Current Version lists as:
+# `v1.4.2`
+A.K.A
+# `v1.4`
+
 ## 🚀 Features
 * **Modern Multi-Step Wizard Layout:** Modeled exactly like modern web conversion tools.
 * **Large File Optimization Array:** High-capacity memory pipeline engineered to process world archives up to **2.5 GB** smoothly without system freezing.
