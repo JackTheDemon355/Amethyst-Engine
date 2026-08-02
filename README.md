@@ -5,9 +5,9 @@ A modern, desktop-based utility framework designed to seamlessly handle local Mi
 ## 🔢 Current Version
 
 The Current Version lists as:
-# `v1.4.2`
+# `v1.4.3-alpha`
 A.K.A
-# `v1.4`
+# `v1.4-alpha3`
 
 ## 🚀 Features
 * **Modern Multi-Step Wizard Layout:** Modeled exactly like modern web conversion tools.
