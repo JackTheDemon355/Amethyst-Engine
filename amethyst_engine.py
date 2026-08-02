@@ -26,7 +26,7 @@ ctk.set_appearance_mode("Dark")
 ctk.set_default_color_theme("green") 
 
 CURRENT_VERSION = "v1.4.3-alpha"
-UPDATE_URL = "https://aeupdates.oneapp.dev/index.py"
+UPDATE_URL = "https://raw.githubusercontent.com/JackTheDemon355/Amethyst-Engine/refs/heads/main/amethyst_engine.py"
 
 JAVA_VERSIONS = ["Java 1.21.x", "Java 1.20.x", "Java 1.19.x", "Java 1.18.x", "Java 1.17.x", "Java 1.16.x", "Java 1.12.x", "Java 1.8.8"]
 BEDROCK_VERSIONS = ["Bedrock 1.26.x", "Bedrock 1.21.x", "Bedrock 1.20.x", "Bedrock 1.19.x", "Bedrock 1.18.x", "Bedrock 1.17.x", "Bedrock 1.12.0"]
